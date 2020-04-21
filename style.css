@@ -1,0 +1,30 @@
+.margin-bot-10px {
+  margin-bottom: 10px;
+}
+
+input[type="radio"] {
+  margin-bottom: 14px;
+}
+
+#terms,
+#password,
+#rate {
+  margin-bottom: 0;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+input#range,
+input#comments {
+  margin-top: 10px;
+}
+
+input[type="range"] {
+  margin-top: 12px;
+}
+
+#age {
+  width: 48px;
+}
