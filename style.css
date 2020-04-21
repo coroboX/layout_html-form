@@ -2,29 +2,22 @@
   margin-bottom: 10px;
 }
 
-input[type="radio"] {
+.margin-bot-14px {
   margin-bottom: 14px;
 }
 
-#terms,
-#password,
-#rate {
+.margin-bot-none {
   margin-bottom: 0;
 }
 
-fieldset {
+.inputs-block {
   margin-bottom: 20px;
 }
 
-input#range,
-input#comments {
-  margin-top: 10px;
-}
-
-input[type="range"] {
+.margin-top-12px {
   margin-top: 12px;
 }
 
-#age {
+.input-width-48px {
   width: 48px;
 }
