@@ -1,31 +1,11 @@
-.margin-bot-10px {
-  margin-bottom: 10px;
-}
-
-.margin-bot-14px {
-  margin-bottom: 14px;
-}
-
-.margin-bot-none {
-  margin-bottom: 0;
-}
-
 .inputs-block {
   margin-bottom: 20px;
 }
 
-.margin-top-12px {
-  margin-top: 12px;
+.input-box {
+  margin-bottom: 10px;
 }
 
-.margin-top-10px {
-  margin-top: 10px;
-}
-
-.input-width-48px {
-  width: 48px;
-}
-
-.select-car-width {
-  width: 45px;
+.last-in-fieldset {
+  margin-bottom: 0;
 }
